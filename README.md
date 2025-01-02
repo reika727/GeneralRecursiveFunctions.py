@@ -1,5 +1,5 @@
 # GeneralRecursiveFunctions.py
-[この記事]()の検証用に作ったプログラムです。
+[この記事](https://qiita.com/reika727/items/b0b2e5c496644c56f0f8)の検証用に作ったプログラムです。
 
 ## Example
 ```python3
@@ -40,7 +40,7 @@ print(is_prime(4)) # False
 - `mu()`: 最小化作用素 $\mu$ です。
 
 ## examples.py
-様々な $\mu$ 再帰関数の実例を定義しています。それぞれの関数の意味については[記事]()の方を参照ください。
+様々な $\mu$ 再帰関数の実例を定義しています。それぞれの関数の意味については前述の[記事](https://qiita.com/reika727/items/b0b2e5c496644c56f0f8)の方を参照ください。
 
 ## test.py
 テストコードです。~~全然書いてないけど~~
